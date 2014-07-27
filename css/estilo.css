@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* CSS Document  style="position:absolute;top:139px;left:143px;"*/
+
+.contenedor{
+	width:80%;
+	margin:0 auto;
+	}
+table,tr,td{
+	border:none;
+	background-color:rgba(72,150,232,1.00);
+	border-radius: 6px 6px 6px 6px;
+	height:50px;
+	width:900px;
+	}
+table,tr,td,a{
+	text-decoration:none;
+	font-family:arial;
+	font-size:24px;
+	color:rgba(0,0,0,1.00);
+	}
+	p{
+		float:left;
+		height:5em;
+		margin:10px;
+		padding:5px;
+		width:4em;
+		}
+		body{
+			background-color:rgba(35,203,231,1.00);}
+
+
+
